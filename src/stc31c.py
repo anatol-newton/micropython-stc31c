@@ -1,7 +1,5 @@
 __version__ = "0.0.1"
 
-from enum import Enum
-
 from uio import AnyReadableBuf
 
 try:
