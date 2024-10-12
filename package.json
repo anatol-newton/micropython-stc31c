@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["stc31_c/__init__.py", "github:anatol-newton/micropython-stc31c/src/stc31c.py"],
+   ],
+  "deps": [],
+  "version": "0.0.1"
+}
